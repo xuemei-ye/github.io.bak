@@ -2,7 +2,7 @@
 title: Xuemei Ye blog
 email: xuemei-ye@foxmail.com
 description: "Musings of a Computer Scientist."
-baseurl: ""
+baseurl: "/"
 url: "http://xuemei-ye.github.io"
 blogurl: "http://xuemei-ye.github.io/blog"
 #twitter_username: karpathy
